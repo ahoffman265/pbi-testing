@@ -1,5 +1,5 @@
 {
-  "config": "{\"version\":\"5.49\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY23SU11\",\"version\":\"5.49\",\"type\":2}},\"activeSectionIndex\":0,\"defaultDrillFilterOtherVisuals\":true,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]}}",
+  "config": "{\"version\":\"5.49\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY23SU11\",\"version\":\"5.49\",\"type\":2}},\"activeSectionIndex\":0,\"bookmarks\":[{\"displayName\":\"Pre-Pressed\",\"name\":\"Bookmarkf2e1dc5a0b2789e2eb44\",\"explorationState\":{\"version\":\"1.3\",\"activeSection\":\"ReportSection\",\"sections\":{\"ReportSection\":{\"visualContainers\":{\"38223afb2bec3d9cccea\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"4d281e851b99e810254e\":{\"singleVisual\":{\"visualType\":\"actionButton\",\"objects\":{}}},\"e5c3ae4ec0baa176e523\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"8e2aa3afa61d9ecbe591\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"53e8201c431ac40bc910\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"4640827661c6a7f8f214\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"37d31d1006c01ff8aec2\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"213bc34910ea08c9f7b1\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"7f397c6ac5a101d9eb56\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"0c8e89aa8ffa2316803b\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"f9942c21eb9b1e62c0c5\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"4ad7d4147b3ae3dc0946\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"fc5e810ab68a36e82d5d\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"1525713611f90dff0d4b\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"60aa997c6259f7d71055\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"7d4180a978604a83a70f\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"6b19c026c93f38757be0\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"0bb911098bdf151d7f41\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"8fcd305b72d6d6d2d6cb\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"d2ee8cbff4e4728c82c2\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"4d384be80a5e54730f77\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"3aed794636b5bece1ad9\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"b3ec6068dbcdadfa2560\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"1881a3c46281a80c9381\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"35abe7d9bd7749e19fe9\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"c619388ec5927a057005\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"9f345d8bcd2713ac9e62\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"b56210aba9316e0b5ec3\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"7f2f668e7482db7d6322\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"f11cffb78a31b903cb9e\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"b4cb98eb202dba27012e\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"fa315e2bef0828b80071\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"65eec19f7e9d2962e605\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"bc0bf094fac73fe05519\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"8b975fdcc33cc6b44bcc\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"09880172abf925f7825f\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"66e4efd1ceba08faeaf9\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"7725af2da9948d12ebaa\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"2adc6fdf8de843eb375e\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"3b8dd6a4d393ab2c3dc5\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"3317f4dc03f680f70350\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"2062af44c3b880cacedd\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"8a4e79a895f02cc036f2\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"81f78fb1920cb56cc194\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"e0ff976b36198b5bdb94\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"2254470c80590c4bc912\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"5a3bb506654258f516de\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"3b53e412d25c664a9ede\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"47e926d2322b5f47bf11\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"59aeaa061d750987f00b\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"725530fc753cd880254f\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"eb127ba4a7d23f6b0977\":{\"singleVisual\":{\"visualType\":\"actionButton\",\"objects\":{},\"display\":{\"mode\":\"hidden\"}}}},\"visualContainerGroups\":{\"b9f1b9e5e47861393a8a\":{\"isHidden\":true}}}},\"objects\":{}},\"options\":{\"targetVisualNames\":[]}},{\"displayName\":\"Pressed\",\"name\":\"Bookmark315ad943f4609b5f5e5f\",\"explorationState\":{\"version\":\"1.3\",\"activeSection\":\"ReportSection\",\"sections\":{\"ReportSection\":{\"visualContainers\":{\"38223afb2bec3d9cccea\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{},\"display\":{\"mode\":\"hidden\"}}},\"4d281e851b99e810254e\":{\"singleVisual\":{\"visualType\":\"actionButton\",\"objects\":{},\"display\":{\"mode\":\"hidden\"}}},\"e5c3ae4ec0baa176e523\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"8e2aa3afa61d9ecbe591\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"53e8201c431ac40bc910\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"4640827661c6a7f8f214\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"37d31d1006c01ff8aec2\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"213bc34910ea08c9f7b1\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"7f397c6ac5a101d9eb56\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"0c8e89aa8ffa2316803b\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"f9942c21eb9b1e62c0c5\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"4ad7d4147b3ae3dc0946\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"fc5e810ab68a36e82d5d\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"1525713611f90dff0d4b\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"60aa997c6259f7d71055\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"7d4180a978604a83a70f\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"6b19c026c93f38757be0\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"0bb911098bdf151d7f41\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"8fcd305b72d6d6d2d6cb\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"d2ee8cbff4e4728c82c2\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"4d384be80a5e54730f77\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"3aed794636b5bece1ad9\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"b3ec6068dbcdadfa2560\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"1881a3c46281a80c9381\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"35abe7d9bd7749e19fe9\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"c619388ec5927a057005\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"9f345d8bcd2713ac9e62\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"b56210aba9316e0b5ec3\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"7f2f668e7482db7d6322\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"f11cffb78a31b903cb9e\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"b4cb98eb202dba27012e\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"fa315e2bef0828b80071\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"65eec19f7e9d2962e605\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"bc0bf094fac73fe05519\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"8b975fdcc33cc6b44bcc\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"09880172abf925f7825f\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"66e4efd1ceba08faeaf9\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"7725af2da9948d12ebaa\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"2adc6fdf8de843eb375e\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"3b8dd6a4d393ab2c3dc5\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"3317f4dc03f680f70350\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"2062af44c3b880cacedd\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"8a4e79a895f02cc036f2\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"81f78fb1920cb56cc194\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"e0ff976b36198b5bdb94\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"2254470c80590c4bc912\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"5a3bb506654258f516de\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"3b53e412d25c664a9ede\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"47e926d2322b5f47bf11\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"59aeaa061d750987f00b\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"725530fc753cd880254f\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"eb127ba4a7d23f6b0977\":{\"singleVisual\":{\"visualType\":\"actionButton\",\"objects\":{}}}},\"visualContainerGroups\":{\"b9f1b9e5e47861393a8a\":{\"isHidden\":false}}}},\"objects\":{}},\"options\":{\"targetVisualNames\":[]}}],\"defaultDrillFilterOtherVisuals\":true,\"linguisticSchemaSyncVersion\":0,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]}}",
   "layoutOptimization": 0,
   "resourcePackages": [
     {
@@ -25,7 +25,580 @@
       "filters": "[]",
       "height": 720.00,
       "name": "ReportSection",
-      "visualContainers": [],
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"00112303cfca6cb33401\",\"layouts\":[{\"id\":0,\"position\":{\"height\":87.02394526795896,\"width\":90.30786773090081,\"x\":26.271379703534777,\"y\":24.62941847206389,\"z\":5000,\"tabOrder\":0}}],\"singleVisualGroup\":{\"displayName\":\"Group 1\",\"groupMode\":0},\"parentGroupName\":\"1b1153379d30961edc1b\"}",
+          "height": 87.02,
+          "width": 90.31,
+          "x": 26.27,
+          "y": 24.63,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"090ef4ea6c8f5b3a2f1a\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":5.746864310148234,\"y\":4.925883694412789,\"z\":1000,\"tabOrder\":5000}}],\"singleVisualGroup\":{\"displayName\":\"Group 2\",\"groupMode\":0},\"parentGroupName\":\"b9f1b9e5e47861393a8a\"}",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 5.75,
+          "y": 4.93,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"09880172abf925f7825f\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0,\"y\":27.9133409350057,\"z\":1000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"0-50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"00112303cfca6cb33401\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.00,
+          "y": 27.91,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"0bb911098bdf151d7f41\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":0,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"80911ab1c56d0bede645\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"0c8e89aa8ffa2316803b\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":0,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"5270ae37f2fe08299ad8\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"10afc5b3dc5ede73658d\",\"layouts\":[{\"id\":0,\"position\":{\"height\":87.02394526795896,\"width\":90.30786773090081,\"x\":26.271379703534777,\"y\":24.62941847206389,\"z\":5000,\"tabOrder\":0}}],\"singleVisualGroup\":{\"displayName\":\"Group 1\",\"groupMode\":0},\"parentGroupName\":\"80911ab1c56d0bede645\"}",
+          "height": 87.02,
+          "width": 90.31,
+          "x": 26.27,
+          "y": 24.63,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"1525713611f90dff0d4b\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":33.660205245153975,\"z\":4000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#2DC937'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"80911ab1c56d0bede645\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 33.66,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"1881a3c46281a80c9381\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":93.59179019384266,\"z\":2000,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#CC3232'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"d92258c8ec355bc6309e\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 93.59,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"1b1153379d30961edc1b\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":132.17787913340936,\"y\":4.925883694412789,\"z\":2000,\"tabOrder\":4000}}],\"singleVisualGroup\":{\"displayName\":\"Group 2\",\"groupMode\":0},\"parentGroupName\":\"b9f1b9e5e47861393a8a\"}",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 132.18,
+          "y": 4.93,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"2062af44c3b880cacedd\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":0,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"1b1153379d30961edc1b\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"213bc34910ea08c9f7b1\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":93.59179019384266,\"z\":2000,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#CC3232'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"5270ae37f2fe08299ad8\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 93.59,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"2254470c80590c4bc912\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":33.660205245153975,\"z\":4000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#2DC937'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"090ef4ea6c8f5b3a2f1a\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 33.66,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"2adc6fdf8de843eb375e\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":62.3945267958951,\"z\":3000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#E7B416'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"1b1153379d30961edc1b\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 62.39,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"3317f4dc03f680f70350\",\"layouts\":[{\"id\":0,\"position\":{\"height\":30.37628278221209,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":1000,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"KPI #1\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"1b1153379d30961edc1b\"}",
+          "filters": "[]",
+          "height": 30.38,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"35abe7d9bd7749e19fe9\",\"layouts\":[{\"id\":0,\"position\":{\"height\":30.37628278221209,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":1000,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"KPI #1\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"d92258c8ec355bc6309e\"}",
+          "filters": "[]",
+          "height": 30.38,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"37d31d1006c01ff8aec2\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":62.3945267958951,\"z\":3000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#E7B416'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"5270ae37f2fe08299ad8\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 62.39,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"38223afb2bec3d9cccea\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":192,\"z\":0,\"width\":27.913340935005703,\"height\":129.71493728620297,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'tabRoundTopCorners'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}},\"angle\":{\"expr\":{\"Literal\":{\"Value\":\"90L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#C4E3CF'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 129.71,
+          "width": 27.91,
+          "x": 0.00,
+          "y": 192.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"39167f08226dd1c0b469\",\"layouts\":[{\"id\":0,\"position\":{\"height\":87.02394526795896,\"width\":90.30786773090081,\"x\":26.271379703534777,\"y\":24.62941847206389,\"z\":5000,\"tabOrder\":0}}],\"singleVisualGroup\":{\"displayName\":\"Group 1\",\"groupMode\":0},\"parentGroupName\":\"090ef4ea6c8f5b3a2f1a\"}",
+          "height": 87.02,
+          "width": 90.31,
+          "x": 26.27,
+          "y": 24.63,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"3aed794636b5bece1ad9\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":33.660205245153975,\"z\":4000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#2DC937'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"d92258c8ec355bc6309e\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 33.66,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"3b53e412d25c664a9ede\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":93.59179019384266,\"z\":2000,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#CC3232'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"090ef4ea6c8f5b3a2f1a\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 93.59,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"3b8dd6a4d393ab2c3dc5\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":93.59179019384266,\"z\":2000,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#CC3232'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"1b1153379d30961edc1b\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 93.59,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"4640827661c6a7f8f214\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":33.660205245153975,\"z\":4000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#2DC937'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"5270ae37f2fe08299ad8\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 33.66,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"47e926d2322b5f47bf11\",\"layouts\":[{\"id\":0,\"position\":{\"height\":30.37628278221209,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":1000,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"KPI #1\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"090ef4ea6c8f5b3a2f1a\"}",
+          "filters": "[]",
+          "height": 30.38,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"4ad7d4147b3ae3dc0946\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0,\"y\":27.9133409350057,\"z\":1000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"0-50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"10afc5b3dc5ede73658d\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.00,
+          "y": 27.91,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"4d281e851b99e810254e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":192.10946408209807,\"z\":1000,\"width\":27.913340935005703,\"height\":129.71493728620297,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"actionButton\",\"drillFilterOtherVisuals\":true,\"objects\":{\"icon\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'blank'\"}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"visualLink\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"type\":{\"expr\":{\"Literal\":{\"Value\":\"'Bookmark'\"}}},\"bookmark\":{\"expr\":{\"Literal\":{\"Value\":\"'Bookmark315ad943f4609b5f5e5f'\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 129.71,
+          "width": 27.91,
+          "x": 0.00,
+          "y": 192.11,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"4d384be80a5e54730f77\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":59.11060433295326,\"z\":2000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\">50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"751d4bbe3d56e5702a84\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 59.11,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"4e7404c0e5ab189d972f\",\"layouts\":[{\"id\":0,\"position\":{\"height\":87.02394526795896,\"width\":90.30786773090081,\"x\":26.271379703534777,\"y\":24.62941847206389,\"z\":5000,\"tabOrder\":0}}],\"singleVisualGroup\":{\"displayName\":\"Group 1\",\"groupMode\":0},\"parentGroupName\":\"5270ae37f2fe08299ad8\"}",
+          "height": 87.02,
+          "width": 90.31,
+          "x": 26.27,
+          "y": 24.63,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"5270ae37f2fe08299ad8\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":633.7970353477765,\"y\":4.925883694412789,\"z\":6000,\"tabOrder\":0}}],\"singleVisualGroup\":{\"displayName\":\"Group 2\",\"groupMode\":0},\"parentGroupName\":\"b9f1b9e5e47861393a8a\"}",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 633.80,
+          "y": 4.93,
+          "z": 6000.00
+        },
+        {
+          "config": "{\"name\":\"53e8201c431ac40bc910\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":59.11060433295326,\"z\":2000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\">50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"4e7404c0e5ab189d972f\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 59.11,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"59aeaa061d750987f00b\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":0,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"090ef4ea6c8f5b3a2f1a\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"5a3bb506654258f516de\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":62.3945267958951,\"z\":3000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#E7B416'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"090ef4ea6c8f5b3a2f1a\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 62.39,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"60aa997c6259f7d71055\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":62.3945267958951,\"z\":3000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#E7B416'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"80911ab1c56d0bede645\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 62.39,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"65eec19f7e9d2962e605\",\"layouts\":[{\"id\":0,\"position\":{\"height\":30.37628278221209,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":1000,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"KPI #1\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"d8574ce299272b6bdf51\"}",
+          "filters": "[]",
+          "height": 30.38,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"66e4efd1ceba08faeaf9\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":59.11060433295326,\"z\":2000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\">50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"00112303cfca6cb33401\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 59.11,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"6b19c026c93f38757be0\",\"layouts\":[{\"id\":0,\"position\":{\"height\":30.37628278221209,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":1000,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"KPI #1\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"80911ab1c56d0bede645\"}",
+          "filters": "[]",
+          "height": 30.38,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"725530fc753cd880254f\",\"layouts\":[{\"id\":0,\"position\":{\"height\":130,\"width\":771.7217787913341,\"x\":0,\"y\":0,\"z\":0,\"tabOrder\":6000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'tabRoundTopCorners'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}},\"angle\":{\"expr\":{\"Literal\":{\"Value\":\"90L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#C4E3CF'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"b9f1b9e5e47861393a8a\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 130.00,
+          "width": 771.72,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"751d4bbe3d56e5702a84\",\"layouts\":[{\"id\":0,\"position\":{\"height\":87.02394526795896,\"width\":90.30786773090081,\"x\":26.271379703534777,\"y\":24.62941847206389,\"z\":5000,\"tabOrder\":0}}],\"singleVisualGroup\":{\"displayName\":\"Group 1\",\"groupMode\":0},\"parentGroupName\":\"d92258c8ec355bc6309e\"}",
+          "height": 87.02,
+          "width": 90.31,
+          "x": 26.27,
+          "y": 24.63,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"7725af2da9948d12ebaa\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":33.660205245153975,\"z\":4000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#2DC937'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"1b1153379d30961edc1b\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 33.66,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"7d4180a978604a83a70f\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":93.59179019384266,\"z\":2000,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#CC3232'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"80911ab1c56d0bede645\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 93.59,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"7f2f668e7482db7d6322\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":59.11060433295326,\"z\":2000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\">50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"9a8dc7ddc889e0d0f065\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 59.11,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"7f397c6ac5a101d9eb56\",\"layouts\":[{\"id\":0,\"position\":{\"height\":30.37628278221209,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":1000,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"KPI #1\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"5270ae37f2fe08299ad8\"}",
+          "filters": "[]",
+          "height": 30.38,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"80911ab1c56d0bede645\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":512.2919042189282,\"y\":4.925883694412789,\"z\":5000,\"tabOrder\":1000}}],\"singleVisualGroup\":{\"displayName\":\"Group 2\",\"groupMode\":0},\"parentGroupName\":\"b9f1b9e5e47861393a8a\"}",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 512.29,
+          "y": 4.93,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"81f78fb1920cb56cc194\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0,\"y\":27.9133409350057,\"z\":1000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"0-50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"39167f08226dd1c0b469\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.00,
+          "y": 27.91,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"8a4e79a895f02cc036f2\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":0,\"z\":0,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"< 50 %\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"39167f08226dd1c0b469\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"8b975fdcc33cc6b44bcc\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":0,\"z\":0,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"< 50 %\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"00112303cfca6cb33401\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"8e2aa3afa61d9ecbe591\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0,\"y\":27.9133409350057,\"z\":1000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"0-50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"4e7404c0e5ab189d972f\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.00,
+          "y": 27.91,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"8fcd305b72d6d6d2d6cb\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":0,\"z\":0,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"< 50 %\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"751d4bbe3d56e5702a84\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"9a8dc7ddc889e0d0f065\",\"layouts\":[{\"id\":0,\"position\":{\"height\":87.02394526795896,\"width\":90.30786773090081,\"x\":26.271379703534777,\"y\":24.62941847206389,\"z\":5000,\"tabOrder\":0}}],\"singleVisualGroup\":{\"displayName\":\"Group 1\",\"groupMode\":0},\"parentGroupName\":\"d8574ce299272b6bdf51\"}",
+          "height": 87.02,
+          "width": 90.31,
+          "x": 26.27,
+          "y": 24.63,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"9f345d8bcd2713ac9e62\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":0,\"z\":0,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"< 50 %\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"9a8dc7ddc889e0d0f065\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"b3ec6068dbcdadfa2560\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":62.3945267958951,\"z\":3000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#E7B416'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"d92258c8ec355bc6309e\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 62.39,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"b4cb98eb202dba27012e\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":62.3945267958951,\"z\":3000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#E7B416'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"d8574ce299272b6bdf51\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 62.39,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"b56210aba9316e0b5ec3\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0,\"y\":27.9133409350057,\"z\":1000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"0-50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"9a8dc7ddc889e0d0f065\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.00,
+          "y": 27.91,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"b9f1b9e5e47861393a8a\",\"layouts\":[{\"id\":0,\"position\":{\"height\":130,\"width\":771.7217787913341,\"x\":0,\"y\":192.93044469783354,\"z\":2000,\"tabOrder\":2000}}],\"singleVisualGroup\":{\"displayName\":\"Group 3\",\"groupMode\":0,\"isHidden\":true}}",
+          "height": 130.00,
+          "width": 771.72,
+          "x": 0.00,
+          "y": 192.93,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"bc0bf094fac73fe05519\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":0,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"d8574ce299272b6bdf51\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"c619388ec5927a057005\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":0,\"y\":0,\"z\":0,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"d92258c8ec355bc6309e\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"d2ee8cbff4e4728c82c2\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0,\"y\":27.9133409350057,\"z\":1000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"0-50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"751d4bbe3d56e5702a84\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.00,
+          "y": 27.91,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"d8574ce299272b6bdf51\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":259.42987457240594,\"y\":4.925883694412789,\"z\":3000,\"tabOrder\":3000}}],\"singleVisualGroup\":{\"displayName\":\"Group 2\",\"groupMode\":0},\"parentGroupName\":\"b9f1b9e5e47861393a8a\"}",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 259.43,
+          "y": 4.93,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"d92258c8ec355bc6309e\",\"layouts\":[{\"id\":0,\"position\":{\"height\":119.86316989737743,\"width\":116.57924743443559,\"x\":385.8608893956671,\"y\":4.925883694412789,\"z\":4000,\"tabOrder\":2000}}],\"singleVisualGroup\":{\"displayName\":\"Group 2\",\"groupMode\":0},\"parentGroupName\":\"b9f1b9e5e47861393a8a\"}",
+          "height": 119.86,
+          "width": 116.58,
+          "x": 385.86,
+          "y": 4.93,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"e0ff976b36198b5bdb94\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":59.11060433295326,\"z\":2000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\">50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"39167f08226dd1c0b469\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 59.11,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"e5c3ae4ec0baa176e523\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":0,\"z\":0,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"< 50 %\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"4e7404c0e5ab189d972f\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"eb127ba4a7d23f6b0977\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":194.21874301051218,\"z\":3000,\"width\":771.3782151643927,\"height\":129.17378662491612,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"actionButton\",\"display\":{\"mode\":\"hidden\"},\"drillFilterOtherVisuals\":true,\"objects\":{\"icon\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'blank'\"}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"visualLink\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"type\":{\"expr\":{\"Literal\":{\"Value\":\"'Bookmark'\"}}},\"bookmark\":{\"expr\":{\"Literal\":{\"Value\":\"'Bookmarkf2e1dc5a0b2789e2eb44'\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 129.17,
+          "width": 771.38,
+          "x": 0.00,
+          "y": 194.22,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"f11cffb78a31b903cb9e\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":33.660205245153975,\"z\":4000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#2DC937'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"d8574ce299272b6bdf51\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 33.66,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"f9942c21eb9b1e62c0c5\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":0,\"z\":0,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"< 50 %\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"10afc5b3dc5ede73658d\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"fa315e2bef0828b80071\",\"layouts\":[{\"id\":0,\"position\":{\"height\":12.314709236031929,\"width\":12.314709236031929,\"x\":9.030786773090085,\"y\":93.59179019384266,\"z\":2000,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#CC3232'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"parentGroupName\":\"d8574ce299272b6bdf51\",\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 12.31,
+          "width": 12.31,
+          "x": 9.03,
+          "y": 93.59,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"fc5e810ab68a36e82d5d\",\"layouts\":[{\"id\":0,\"position\":{\"height\":27.91334093500571,\"width\":89.9963723504111,\"x\":0.3114953804897332,\"y\":59.11060433295326,\"z\":2000,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\">50%\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"8pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"10afc5b3dc5ede73658d\"}",
+          "filters": "[]",
+          "height": 27.91,
+          "width": 90.00,
+          "x": 0.31,
+          "y": 59.11,
+          "z": 2000.00
+        }
+      ],
       "width": 1280.00
     }
   ]
